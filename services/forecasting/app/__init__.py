@@ -1,0 +1,2 @@
+"""MedSentinel Forecasting Service"""
+
